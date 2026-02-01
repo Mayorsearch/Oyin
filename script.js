@@ -1,5 +1,5 @@
 const messages = [
-    "Amope,are you sure?",
+    "Ayoka,are you sure?",
     "Really sure??",
     "Are you positive?",
     "Pookie please...",
